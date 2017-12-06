@@ -1,0 +1,460 @@
+{
+	"nodes": [
+		{
+			"label": "Davin",
+			"x": -543.5078125,
+			"y": 112.23315429688,
+			"id": "9",
+			"attributes": {
+				"Modularity Class": "1",
+				"Eccentricity": "3.0",
+				"Degree": "1",
+				"PageRank": "0.03576803502352441",
+				"Harmonic Closeness Centrality": "0.5",
+				"Gender": "Male",
+				"Weighted Degree": "2.0",
+				"Name": "Davin",
+				"Component ID": "0",
+				"Closeness Centrality": "0.45454545454545453",
+				"Eigenvector Centrality": "0.20764759630670163",
+				"Clustering Coefficient": "0.0",
+				"Betweenness Centrality": "0.0",
+				"Number of triangles": "0"
+			},
+			"color": "rgb(255,189,112)",
+			"size": 10
+		},
+		{
+			"label": "Tom",
+			"x": -677.99017333984,
+			"y": -31.442680358887,
+			"id": "8",
+			"attributes": {
+				"Modularity Class": "1",
+				"Eccentricity": "3.0",
+				"Degree": "1",
+				"PageRank": "0.03576803502352441",
+				"Harmonic Closeness Centrality": "0.5",
+				"Gender": "Male",
+				"Weighted Degree": "2.0",
+				"Name": "Tom",
+				"Component ID": "0",
+				"Closeness Centrality": "0.45454545454545453",
+				"Eigenvector Centrality": "0.20764759630670163",
+				"Clustering Coefficient": "0.0",
+				"Betweenness Centrality": "0.0",
+				"Number of triangles": "0"
+			},
+			"color": "rgb(255,189,112)",
+			"size": 10
+		},
+		{
+			"label": "Morty",
+			"x": -88.852867126465,
+			"y": -156.67422485352,
+			"id": "2",
+			"attributes": {
+				"Modularity Class": "0",
+				"Eccentricity": "2.0",
+				"Degree": "7",
+				"PageRank": "0.17533636837742847",
+				"Harmonic Closeness Centrality": "0.85",
+				"Gender": "Male",
+				"Weighted Degree": "13.0",
+				"Name": "Morty",
+				"Component ID": "0",
+				"Closeness Centrality": "0.7692307692307693",
+				"Eigenvector Centrality": "1.0",
+				"Clustering Coefficient": "0.38095238095238093",
+				"Betweenness Centrality": "16.0",
+				"Number of triangles": "8"
+			},
+			"color": "rgb(255,189,112)",
+			"size": 70
+		},
+		{
+			"label": "Beth",
+			"x": -511.28674316406,
+			"y": -170.09808349609,
+			"id": "5",
+			"attributes": {
+				"Modularity Class": "1",
+				"Eccentricity": "2.0",
+				"Degree": "7",
+				"PageRank": "0.18237503714528527",
+				"Harmonic Closeness Centrality": "0.85",
+				"Gender": "Female",
+				"Weighted Degree": "14.0",
+				"Name": "Beth",
+				"Component ID": "0",
+				"Closeness Centrality": "0.7692307692307693",
+				"Eigenvector Centrality": "0.9635227655135638",
+				"Clustering Coefficient": "0.3333333333333333",
+				"Betweenness Centrality": "20.0",
+				"Number of triangles": "7"
+			},
+			"color": "rgb(196,168,255)",
+			"size": 70
+		},
+		{
+			"label": "Jessica",
+			"x": 468.72058105469,
+			"y": -40.306060791016,
+			"id": "7",
+			"attributes": {
+				"Modularity Class": "0",
+				"Eccentricity": "3.0",
+				"Degree": "2",
+				"PageRank": "0.05575333090066709",
+				"Harmonic Closeness Centrality": "0.5499999999999999",
+				"Gender": "Female",
+				"Weighted Degree": "3.0",
+				"Name": "Jessica",
+				"Component ID": "0",
+				"Closeness Centrality": "0.47619047619047616",
+				"Eigenvector Centrality": "0.4049819487107958",
+				"Clustering Coefficient": "1.0",
+				"Betweenness Centrality": "0.0",
+				"Number of triangles": "1"
+			},
+			"color": "rgb(196,168,255)",
+			"size": 20
+		},
+		{
+			"label": "Summer",
+			"x": 126.63568115234,
+			"y": 68.508308410645,
+			"id": "3",
+			"attributes": {
+				"Modularity Class": "1",
+				"Eccentricity": "2.0",
+				"Degree": "5",
+				"PageRank": "0.12244246013981797",
+				"Harmonic Closeness Centrality": "0.75",
+				"Gender": "Female",
+				"Weighted Degree": "8.0",
+				"Name": "Summer",
+				"Component ID": "0",
+				"Closeness Centrality": "0.6666666666666666",
+				"Eigenvector Centrality": "0.8898876220943159",
+				"Clustering Coefficient": "0.7",
+				"Betweenness Centrality": "3.0",
+				"Number of triangles": "7"
+			},
+			"color": "rgb(196,168,255)",
+			"size": 50
+		},
+		{
+			"label": "Rick",
+			"x": -310.06677246094,
+			"y": -494.30096435547,
+			"id": "1",
+			"attributes": {
+				"Modularity Class": "0",
+				"Eccentricity": "2.0",
+				"Degree": "5",
+				"PageRank": "0.12244246013981797",
+				"Harmonic Closeness Centrality": "0.75",
+				"Gender": "Male",
+				"Weighted Degree": "9.0",
+				"Name": "Rick",
+				"Component ID": "0",
+				"Closeness Centrality": "0.6666666666666666",
+				"Eigenvector Centrality": "0.8898876220943159",
+				"Clustering Coefficient": "0.7",
+				"Betweenness Centrality": "3.0",
+				"Number of triangles": "7"
+			},
+			"color": "rgb(255,189,112)",
+			"size": 50
+		},
+		{
+			"label": "Jerry",
+			"x": -26.192695617676,
+			"y": 375.28088378906,
+			"id": "4",
+			"attributes": {
+				"Modularity Class": "1",
+				"Eccentricity": "2.0",
+				"Degree": "5",
+				"PageRank": "0.12278899861689427",
+				"Harmonic Closeness Centrality": "0.75",
+				"Gender": "Male",
+				"Weighted Degree": "9.0",
+				"Name": "Jerry",
+				"Component ID": "0",
+				"Closeness Centrality": "0.6666666666666666",
+				"Eigenvector Centrality": "0.8887596313405471",
+				"Clustering Coefficient": "0.7",
+				"Betweenness Centrality": "3.0",
+				"Number of triangles": "7"
+			},
+			"color": "rgb(255,189,112)",
+			"size": 50
+		},
+		{
+			"label": "Principal V.",
+			"x": -338.01138305664,
+			"y": 232.31723022461,
+			"id": "10",
+			"attributes": {
+				"Modularity Class": "1",
+				"Eccentricity": "3.0",
+				"Degree": "2",
+				"PageRank": "0.056638140849362764",
+				"Harmonic Closeness Centrality": "0.55",
+				"Gender": "Male",
+				"Weighted Degree": "3.0",
+				"Name": "Principal V.",
+				"Component ID": "0",
+				"Closeness Centrality": "0.47619047619047616",
+				"Eigenvector Centrality": "0.39762330700542026",
+				"Clustering Coefficient": "1.0",
+				"Betweenness Centrality": "0.0",
+				"Number of triangles": "1"
+			},
+			"color": "rgb(255,189,112)",
+			"size": 20
+		},
+		{
+			"label": "Mr. Goldenfold",
+			"x": 196.30737304688,
+			"y": -387.38784790039,
+			"id": "6",
+			"attributes": {
+				"Modularity Class": "0",
+				"Eccentricity": "3.0",
+				"Degree": "1",
+				"PageRank": "0.0349338326853328",
+				"Harmonic Closeness Centrality": "0.5",
+				"Gender": "Male",
+				"Weighted Degree": "2.0",
+				"Name": "Mr. Goldenfold",
+				"Component ID": "0",
+				"Closeness Centrality": "0.45454545454545453",
+				"Eigenvector Centrality": "0.21482626898965848",
+				"Clustering Coefficient": "0.0",
+				"Betweenness Centrality": "0.0",
+				"Number of triangles": "0"
+			},
+			"color": "rgb(255,189,112)",
+			"size": 10
+		},
+		{
+			"label": "Frank",
+			"x": 304.16949462891,
+			"y": -252.1411895752,
+			"id": "11",
+			"attributes": {
+				"Modularity Class": "0",
+				"Eccentricity": "3.0",
+				"Degree": "2",
+				"PageRank": "0.05575333090066709",
+				"Harmonic Closeness Centrality": "0.5499999999999999",
+				"Gender": "Male",
+				"Weighted Degree": "3.0",
+				"Name": "Frank",
+				"Component ID": "0",
+				"Closeness Centrality": "0.47619047619047616",
+				"Eigenvector Centrality": "0.40498194871079574",
+				"Clustering Coefficient": "1.0",
+				"Betweenness Centrality": "0.0",
+				"Number of triangles": "1"
+			},
+			"color": "rgb(255,189,112)",
+			"size": 20
+		}
+	],
+	"edges": [
+		{
+			"source": "3",
+			"target": "11",
+			"id": "13",
+			"attributes": {
+				"interactions": "1"
+			},
+			"color": "rgb(0,0,0)",
+			"size": 1
+		},
+		{
+			"source": "2",
+			"target": "4",
+			"id": "5",
+			"attributes": {
+				"interactions": "3"
+			},
+			"color": "rgb(0,0,0)",
+			"size": 3
+		},
+		{
+			"source": "1",
+			"target": "5",
+			"id": "3",
+			"attributes": {
+				"interactions": "8"
+			},
+			"color": "rgb(0,0,0)",
+			"size": 8
+		},
+		{
+			"source": "1",
+			"target": "2",
+			"id": "0",
+			"attributes": {
+				"interactions": "68"
+			},
+			"color": "rgb(0,0,0)",
+			"size": 68
+		},
+		{
+			"source": "3",
+			"target": "2",
+			"id": "10",
+			"attributes": {
+				"interactions": "2"
+			},
+			"color": "rgb(0,0,0)",
+			"size": 2
+		},
+		{
+			"source": "5",
+			"target": "10",
+			"id": "17",
+			"attributes": {
+				"interactions": "2"
+			},
+			"color": "rgb(0,0,0)",
+			"size": 2
+		},
+		{
+			"source": "1",
+			"target": "4",
+			"id": "2",
+			"attributes": {
+				"interactions": "8"
+			},
+			"color": "rgb(0,0,0)",
+			"size": 8
+		},
+		{
+			"source": "2",
+			"target": "11",
+			"id": "9",
+			"attributes": {
+				"interactions": "2"
+			},
+			"color": "rgb(0,0,0)",
+			"size": 2
+		},
+		{
+			"source": "3",
+			"target": "4",
+			"id": "11",
+			"attributes": {
+				"interactions": "2"
+			},
+			"color": "rgb(0,0,0)",
+			"size": 2
+		},
+		{
+			"source": "3",
+			"target": "5",
+			"id": "12",
+			"attributes": {
+				"interactions": "3"
+			},
+			"color": "rgb(0,0,0)",
+			"size": 3
+		},
+		{
+			"source": "4",
+			"target": "5",
+			"id": "14",
+			"attributes": {
+				"interactions": "19"
+			},
+			"color": "rgb(0,0,0)",
+			"size": 19
+		},
+		{
+			"source": "5",
+			"target": "9",
+			"id": "16",
+			"attributes": {
+				"interactions": "2"
+			},
+			"color": "rgb(0,0,0)",
+			"size": 2
+		},
+		{
+			"source": "5",
+			"target": "8",
+			"id": "15",
+			"attributes": {
+				"interactions": "1"
+			},
+			"color": "rgb(0,0,0)",
+			"size": 1
+		},
+		{
+			"source": "1",
+			"target": "7",
+			"id": "4",
+			"attributes": {
+				"interactions": "1"
+			},
+			"color": "rgb(0,0,0)",
+			"size": 1
+		},
+		{
+			"source": "10",
+			"target": "4",
+			"id": "18",
+			"attributes": {
+				"interactions": "3"
+			},
+			"color": "rgb(0,0,0)",
+			"size": 3
+		},
+		{
+			"source": "2",
+			"target": "6",
+			"id": "7",
+			"attributes": {
+				"interactions": "3"
+			},
+			"color": "rgb(0,0,0)",
+			"size": 3
+		},
+		{
+			"source": "2",
+			"target": "7",
+			"id": "8",
+			"attributes": {
+				"interactions": "2"
+			},
+			"color": "rgb(0,0,0)",
+			"size": 2
+		},
+		{
+			"source": "2",
+			"target": "5",
+			"id": "6",
+			"attributes": {
+				"interactions": "2"
+			},
+			"color": "rgb(0,0,0)",
+			"size": 2
+		},
+		{
+			"source": "1",
+			"target": "3",
+			"id": "1",
+			"attributes": {
+				"interactions": "2"
+			},
+			"color": "rgb(0,0,0)",
+			"size": 2
+		}
+	]
+}
