@@ -31,7 +31,7 @@
 		.attr("width", width)
 		.attr("height", height);
 		
-	d3.json("js/graph.json", function(error, json){
+	d3.json("https://github.com/jardno/jardno.github.io/blob/master/js/graph.json", function(error, json){
 		
 		var nodes = json.nodes.map(function(d){
 			return {
