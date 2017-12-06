@@ -1,21 +1,13 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
 <style>
-.node circle {
-	fill: rgb(168, 200, 248);
-	stroke: grey;
-	stroke-width: 1px;
-}
- 
 .link {
-	stroke: black;
-	stroke-width: 1px;
-	opacity: .2;
+	stroke: #ccc;
 }
- 
-.label {
-	font-family: Arial;
-	font-size: 12px;
+
+.node text {
+	pointer-events: none;
+	font: 10px sans-serif;
 }
 </style>
 <body>
@@ -27,6 +19,8 @@ var canvas = document.querySelector("canvas"),
 		context = canvas.getContext("2d"),
 		width = canvas.width,
 		height = canvas.height;
+
+var color = d3.scaleOrdinal(d3.schemeCategory20);
 
 var simulation = d3.forceSimulation()
 		.force("link", d3.forceLink().id(function(d) { return d.id; }))
