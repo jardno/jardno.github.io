@@ -65,13 +65,13 @@
 			labelNodes.push(center)
 		};
 		
-		var force = d3.layout.force()
+		var force = d3.forceSimulation()
 			.nodes(nodes)
 			.links(links)
 			
 		force.start();
 		
-		var force2 = d3.layout.force()
+		var force2 = d3.forceSimulation()
 			.nodes(labelNodes)
 			.links([])
 			.gravity(0)
